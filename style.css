@@ -10,8 +10,8 @@ body { 
   font-family: 'Verta';
  }
 body {
-  background-image: url("anicephoto.jpg");  
-min-height: 600px; 
-background-size: cover; 
-background-position: center center; 
+   background-image: url("anicephoto.jpg");  
+  min-height: 600px; 
+  background-size: cover; 
+  background-position: center center; 
 }
