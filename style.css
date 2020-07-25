@@ -7,5 +7,8 @@ h2{
 body { 
   font-size: 24px; 
   font-weight: 300; 
-  font-family: 'Amiri';
- } 
+  font-family: 'Verta', sans-serif;
+ }
+body {
+  background-image: url("anicephoto.jpg");  
+}
