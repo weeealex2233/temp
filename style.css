@@ -8,10 +8,5 @@ body { 
   font-size: 14px; 
   font-weight: 300; 
   font-family: 'Verta';
+  background-image: url("mine.jpg"); 
  }
-body{ 
-  background-image: url("mine.jpg");     
-  min-height: 600px; 
-  background-size: cover; 
-  background-position: center center; 
-}
