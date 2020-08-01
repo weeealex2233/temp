@@ -1,5 +1,5 @@
 body {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 300;
     font-family: 'Cookie';
 }
@@ -20,6 +20,7 @@ body {
     color: yellow;
 }
 .menu-area h2 a{
+    font-size: 20px;
     display: block;
     color: #fff;
 }
@@ -36,14 +37,20 @@ body {
 .main-menu ul li a{
     display: block;
     color: #fff;
-    padding: 20px 10px;
+    padding: 20px 20px;
 }
 .main-menu ul li a:hover{
     text-decoration: none;
     color: yellow;
 }
-
-
+.col-md-12 h3{
+  font-size: 20px;
+  color: #fff;
+}
+.col-md-12 h4{
+  font-size: 20px;
+  color: #fff;
+}
 
 
 
