@@ -59,7 +59,7 @@ function changeText(){
   if (current_val == "Teacher"){ 
     document.getElementById('my_description').innerHTML = "Student" 
 
-  }else if (current_val == "Student"){ 
+  }else{ 
     document.getElementById('my_description').innerHTML = "Teacher" 
   } 
 } 
